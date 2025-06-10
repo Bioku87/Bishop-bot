@@ -1,0 +1,21 @@
+-Virtual Environment-
+
+From windows terminal launched from root folder 
+
+Create: python -m venv venv
+
+Activate: venv\Scripts\activate
+
+Installed required packages: pip install discord.py[voice] python-dotenv pillow aiosqlite SpeechRecognition PyAudio yt-dlp requests asyncio pynacl matplotlib typing_extensions openai elevenlabs wave whisper vosk azure-cognitiveservices-speech
+
+Deactivate: deactivate
+
+
+
+
+
+
+
+-Load Bot to Discord-
+
+https://discord.com/oauth2/authorize?client_id=1372791671745675334&permissions=274914658304&scope=bot%20applications.commands

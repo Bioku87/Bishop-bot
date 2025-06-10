@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "name": "Bishop Bot",
+    "description": "Advanced Discord bot for tabletop RPG sessions",
+    "features": {
+        "voice_recognition": true,
+        "character_management": true,
+        "audio_playback": true,
+        "dice_rolling": true,
+        "session_management": true
+    },
+    "settings": {
+        "default_command_prefix": "/",
+        "default_volume": 0.5,
+        "transcription_enabled": true,
+        "auto_backup": true,
+        "backup_interval_hours": 24
+    }
+}

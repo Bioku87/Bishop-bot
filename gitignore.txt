@@ -1,0 +1,79 @@
+# Bishop Bot .gitignore
+# Last updated: 2025-05-31 05:12:10
+
+# Environment and settings
+.env
+.env.backup
+config.json
+*.ini
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Audio files
+data/audio/**/*.mp3
+data/audio/**/*.wav
+data/audio/**/*.ogg
+data/audio/**/*.flac
+
+# Voice samples
+data/voice/samples/*
+data/voice/sessions/*
+
+# Exported transcripts
+data/exports/*
+
+# Temporary files
+data/temp/*
+*.tmp
+
+# Log files
+logs/*
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

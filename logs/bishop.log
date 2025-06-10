@@ -1,0 +1,295 @@
+
+2025-05-31 23:13:11,898 - bishop_bot - INFO - Directory structure verified
+2025-05-31 23:13:11,911 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-05-31 23:13:11,912 - bishop_bot.bot - INFO - Database component marked as not available
+2025-05-31 23:13:11,914 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-05-31 23:13:11,916 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-05-31 23:13:11,916 - bishop_bot.audio - INFO - Audio manager initialized
+2025-05-31 23:13:11,916 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-05-31 23:13:11,916 - bishop_bot - INFO - Starting Bishop Bot...
+2025-05-31 23:13:11,938 - bishop_bot.control_window - INFO - Beginning control window initialization
+2025-05-31 23:13:11,939 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x00000265599F2510>
+2025-05-31 23:13:12,020 - bishop_bot.control_window - INFO - Control window initialized
+2025-05-31 23:13:12,021 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-05-31 23:13:12,487 - bishop_bot.commands - INFO - Registering bot commands...
+2025-05-31 23:13:12,487 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-05-31 23:13:12,676 - bishop_bot.commands - INFO - Command sync complete!
+2025-05-31 23:13:12,676 - bishop_bot.bot - ERROR - Failed to set bot presence: 'NoneType' object has no attribute 'change_presence'
+2025-05-31 23:13:12,676 - bishop_bot.bot - INFO - Bot setup completed
+2025-05-31 23:13:14,908 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-05-31 23:13:14,909 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-05-31 23:13:14,909 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-05-31 23:13:14,909 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-05-31 23:26:19,704 - bishop_bot - INFO - Directory structure verified
+2025-05-31 23:26:19,716 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-05-31 23:26:19,717 - bishop_bot.bot - INFO - Database component marked as not available
+2025-05-31 23:26:19,719 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-05-31 23:26:19,720 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-05-31 23:26:19,720 - bishop_bot.audio - INFO - Audio manager initialized
+2025-05-31 23:26:19,720 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-05-31 23:26:19,720 - bishop_bot - INFO - Starting Bishop Bot...
+2025-05-31 23:26:19,750 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x0000023CDF822510>
+2025-05-31 23:26:19,750 - bishop_bot.control_window - INFO - Starting control window thread
+2025-05-31 23:26:19,798 - bishop_bot.control_window - INFO - Control window initialized
+2025-05-31 23:26:19,798 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-05-31 23:28:07,528 - bishop_bot - CRITICAL - Error starting bot: Cannot connect to host discord.com:443 ssl:default [The semaphore timeout period has expired]
+2025-05-31 23:29:59,574 - bishop_bot - INFO - Directory structure verified
+2025-05-31 23:29:59,586 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-05-31 23:29:59,587 - bishop_bot.bot - INFO - Database component marked as not available
+2025-05-31 23:29:59,589 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-05-31 23:29:59,591 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-05-31 23:29:59,591 - bishop_bot.audio - INFO - Audio manager initialized
+2025-05-31 23:29:59,591 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-05-31 23:29:59,591 - bishop_bot - INFO - Starting Bishop Bot...
+2025-05-31 23:29:59,607 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x0000025762BD2510>
+2025-05-31 23:29:59,608 - bishop_bot.control_window - INFO - Starting control window thread
+2025-05-31 23:29:59,650 - bishop_bot.control_window - INFO - Control window initialized
+2025-05-31 23:29:59,651 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-05-31 23:30:00,048 - bishop_bot.commands - INFO - Registering bot commands...
+2025-05-31 23:30:00,048 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-05-31 23:30:00,216 - bishop_bot.commands - INFO - Command sync complete!
+2025-05-31 23:30:00,216 - bishop_bot.bot - ERROR - Failed to set bot presence: 'NoneType' object has no attribute 'change_presence'
+2025-05-31 23:30:00,216 - bishop_bot.bot - INFO - Bot setup completed
+2025-05-31 23:30:02,432 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-05-31 23:30:02,432 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-05-31 23:30:02,432 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-05-31 23:30:02,432 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-05-31 23:32:17,591 - bishop_bot.control_window - INFO - Control window closed
+2025-05-31 23:32:41,460 - bishop_bot - INFO - Directory structure verified
+2025-05-31 23:32:41,474 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-05-31 23:32:41,475 - bishop_bot.bot - INFO - Database component marked as not available
+2025-05-31 23:32:41,478 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-05-31 23:32:41,479 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-05-31 23:32:41,479 - bishop_bot.audio - INFO - Audio manager initialized
+2025-05-31 23:32:41,480 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-05-31 23:32:41,480 - bishop_bot - INFO - Starting Bishop Bot...
+2025-05-31 23:32:41,493 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x000001D6521C2510>
+2025-05-31 23:32:41,493 - bishop_bot.control_window - INFO - Starting control window thread
+2025-05-31 23:32:41,546 - bishop_bot.control_window - INFO - Control window initialized
+2025-05-31 23:32:41,547 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-05-31 23:32:41,994 - bishop_bot.commands - INFO - Registering bot commands...
+2025-05-31 23:32:41,994 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-05-31 23:32:42,166 - bishop_bot.commands - INFO - Command sync complete!
+2025-05-31 23:32:42,166 - bishop_bot.bot - ERROR - Failed to set bot presence: 'NoneType' object has no attribute 'change_presence'
+2025-05-31 23:32:42,166 - bishop_bot.bot - INFO - Bot setup completed
+2025-05-31 23:32:44,460 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-05-31 23:32:44,460 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-05-31 23:32:44,460 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-05-31 23:32:44,460 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-05-31 23:40:56,897 - bishop_bot.control_window - INFO - Control window closed
+2025-05-31 23:52:13,944 - bishop_bot - INFO - Directory structure verified
+2025-05-31 23:52:13,957 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-05-31 23:52:13,957 - bishop_bot.bot - INFO - Database component marked as not available
+2025-05-31 23:52:13,960 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-05-31 23:52:13,961 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-05-31 23:52:13,961 - bishop_bot.audio - INFO - Audio manager initialized
+2025-05-31 23:52:13,961 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-05-31 23:52:13,962 - bishop_bot - INFO - Starting Bishop Bot...
+2025-05-31 23:52:14,002 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x000001D43AC62510>
+2025-05-31 23:52:14,002 - bishop_bot.control_window - INFO - Starting control window thread
+2025-05-31 23:52:14,050 - bishop_bot.control_window - INFO - Control window initialized
+2025-05-31 23:52:14,051 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-05-31 23:52:14,416 - bishop_bot.commands - INFO - Registering bot commands...
+2025-05-31 23:52:14,416 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-05-31 23:52:14,610 - bishop_bot.commands - INFO - Command sync complete!
+2025-05-31 23:52:14,610 - bishop_bot.bot - ERROR - Failed to set bot presence: 'NoneType' object has no attribute 'change_presence'
+2025-05-31 23:52:14,610 - bishop_bot.bot - INFO - Bot setup completed
+2025-05-31 23:52:16,876 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-05-31 23:52:16,876 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-05-31 23:52:16,876 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-05-31 23:52:16,876 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 00:09:59,507 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 00:27:01,113 - bishop_bot - INFO - Directory structure verified
+2025-06-01 00:27:01,140 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 00:27:01,141 - bishop_bot.bot - INFO - Database component marked as not available
+2025-06-01 00:27:01,157 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 00:27:01,158 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 00:27:01,158 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 00:27:01,158 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 00:27:01,159 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 00:27:01,222 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x000001B86D5C2660>
+2025-06-01 00:27:01,222 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 00:27:01,283 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 00:27:01,284 - bishop_bot.control_window - WARNING - Theme file not found: C:\Users\Bioku\Desktop\Bishop\src\sun-valley.tcl
+2025-06-01 00:27:02,016 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 00:27:02,017 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 00:27:02,305 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 00:27:02,306 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 00:27:04,548 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 00:27:04,548 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 00:27:04,549 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 00:27:04,549 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 00:27:04,549 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 00:27:36,541 - bishop_bot - INFO - Directory structure verified
+2025-06-01 00:27:36,560 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 00:27:36,561 - bishop_bot.bot - INFO - Database component marked as not available
+2025-06-01 00:27:36,570 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 00:27:36,572 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 00:27:36,572 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 00:27:36,572 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 00:27:36,572 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 00:27:36,595 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x000001874CC52510>
+2025-06-01 00:27:36,596 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 00:27:36,644 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 00:27:36,649 - bishop_bot.control_window - ERROR - Error setting theme: invalid command name "set_theme"
+2025-06-01 00:27:37,071 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 00:27:37,071 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 00:27:37,271 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 00:27:37,272 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 00:27:39,570 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 00:27:39,570 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 00:27:39,570 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 00:27:39,570 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 00:27:39,570 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 00:28:59,731 - bishop_bot.control_window - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 00:32:52,218 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 00:36:16,555 - bishop_bot - INFO - Directory structure verified
+2025-06-01 00:36:16,579 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 00:36:16,580 - bishop_bot.bot - INFO - Database component marked as not available
+2025-06-01 00:36:16,595 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 00:36:16,596 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 00:36:16,596 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 00:36:16,596 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 00:36:16,597 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 00:36:16,612 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x0000026D042C2660>
+2025-06-01 00:36:16,612 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 00:36:16,660 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 00:36:16,664 - bishop_bot.control_window - ERROR - Error setting theme: invalid command name "set_theme"
+2025-06-01 00:36:17,063 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 00:36:17,063 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 00:36:17,427 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 00:36:17,428 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 00:36:19,658 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 00:36:19,658 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 00:36:19,658 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 00:36:19,658 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 00:36:19,659 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 00:37:16,764 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 00:59:22,759 - bishop_bot - INFO - Directory structure verified
+2025-06-01 00:59:22,796 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 00:59:22,797 - bishop_bot.bot - INFO - Database component marked as not available
+2025-06-01 00:59:22,813 - bishop_bot.bot - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 00:59:22,815 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 00:59:22,815 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 00:59:22,815 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 00:59:22,816 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 00:59:22,875 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x00000262C3892660>
+2025-06-01 00:59:22,875 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 00:59:22,973 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 00:59:22,974 - bishop_bot.control_window - INFO - Theme loaded successfully
+2025-06-01 00:59:23,306 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 00:59:23,306 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 00:59:23,682 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 00:59:23,682 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 00:59:26,089 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 00:59:26,089 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 00:59:26,089 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 00:59:26,089 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 00:59:26,090 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 01:02:07,642 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 01:05:59,039 - bishop_bot - INFO - Directory structure verified
+2025-06-01 01:05:59,130 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 01:05:59,131 - bishop_bot.bot - INFO - Database component marked as not available
+2025-06-01 01:05:59,146 - bishop_bot.voice - INFO - Initializing ultra simplified voice manager...
+2025-06-01 01:05:59,146 - bishop_bot.voice - INFO - Voice manager minimally initialized
+2025-06-01 01:05:59,146 - bishop_bot.bot - INFO - Voice manager initialized successfully
+2025-06-01 01:05:59,156 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 01:05:59,156 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 01:05:59,156 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 01:05:59,156 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 01:05:59,177 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x0000019A302CA660>
+2025-06-01 01:05:59,177 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 01:05:59,228 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 01:05:59,236 - bishop_bot.control_window - INFO - Theme loaded successfully
+2025-06-01 01:05:59,653 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 01:05:59,653 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 01:05:59,847 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 01:05:59,848 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 01:06:02,068 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 01:06:02,069 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 01:06:02,069 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 01:06:02,069 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 01:06:02,069 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 02:04:22,842 - bishop_bot.bot - INFO - Bot reconnected
+2025-06-01 07:32:37,705 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 08:11:30,147 - bishop_bot - INFO - Directory structure verified
+2025-06-01 08:11:30,245 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 08:11:30,246 - bishop_bot.bot - INFO - Initializing database component...
+2025-06-01 08:11:30,274 - bishop_bot.bot - WARNING - Database manager import failed: No module named 'database.init_db'
+2025-06-01 08:11:30,287 - bishop_bot.bot - INFO - Minimal database initialized
+2025-06-01 08:11:30,287 - bishop_bot.bot - INFO - Initializing voice manager...
+2025-06-01 08:11:30,317 - bishop_bot.bot - ERROR - Error creating voice manager instance: argument of type 'NoneType' is not iterable
+2025-06-01 08:11:30,317 - bishop_bot.bot - INFO - Initializing audio manager...
+2025-06-01 08:11:30,327 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 08:11:30,327 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 08:11:30,327 - bishop_bot.bot - INFO - Audio manager initialized successfully
+2025-06-01 08:11:30,327 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 08:11:30,328 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 08:11:30,352 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x00000180A60AE7B0>
+2025-06-01 08:11:30,352 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 08:11:30,459 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 08:11:30,468 - bishop_bot.control_window - INFO - Theme loaded successfully
+2025-06-01 08:11:30,953 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 08:11:30,953 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 08:11:31,145 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 08:11:31,145 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 08:11:33,439 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 08:11:33,439 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 08:11:33,439 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 08:11:33,439 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 08:11:33,439 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 08:12:13,759 - bishop_bot.control_window - INFO - Control window closed
+2025-06-01 23:50:15,303 - bishop_bot - INFO - Directory structure verified
+2025-06-01 23:50:15,387 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-01 23:50:15,388 - bishop_bot.bot - INFO - Initializing database component...
+2025-06-01 23:50:15,413 - bishop_bot.bot - WARNING - Database manager import failed: No module named 'database.init_db'
+2025-06-01 23:50:15,426 - bishop_bot.bot - INFO - Minimal database initialized
+2025-06-01 23:50:15,426 - bishop_bot.bot - INFO - Initializing voice manager...
+2025-06-01 23:50:15,444 - bishop_bot.bot - ERROR - Error creating voice manager instance: argument of type 'NoneType' is not iterable
+2025-06-01 23:50:15,444 - bishop_bot.bot - INFO - Initializing audio manager...
+2025-06-01 23:50:15,455 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-01 23:50:15,455 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-01 23:50:15,455 - bishop_bot.bot - INFO - Audio manager initialized successfully
+2025-06-01 23:50:15,455 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-01 23:50:15,455 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-01 23:50:15,483 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x0000022BBF3CE510>
+2025-06-01 23:50:15,483 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-01 23:50:15,588 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-01 23:50:15,597 - bishop_bot.control_window - INFO - Theme loaded successfully
+2025-06-01 23:50:15,953 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-01 23:50:15,954 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-01 23:50:16,136 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-01 23:50:16,136 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-01 23:50:18,427 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-01 23:50:18,427 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-01 23:50:18,427 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-01 23:50:18,427 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-01 23:50:18,427 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)
+2025-06-01 23:51:07,812 - bishop_bot.control_window - ERROR - Error initializing voice manager: argument of type 'NoneType' is not iterable
+2025-06-01 23:54:18,334 - bishop_bot.control_window - INFO - Control window closed
+2025-06-10 15:12:50,819 - bishop_bot - INFO - Directory structure verified
+2025-06-10 15:12:50,908 - bishop_bot.bot - INFO - Successfully imported command registration
+2025-06-10 15:12:50,909 - bishop_bot.bot - INFO - Initializing database component...
+2025-06-10 15:12:50,934 - bishop_bot.bot - WARNING - Database manager import failed: No module named 'database.init_db'
+2025-06-10 15:12:50,947 - bishop_bot.bot - INFO - Minimal database initialized
+2025-06-10 15:12:50,948 - bishop_bot.bot - INFO - Initializing voice manager...
+2025-06-10 15:12:50,965 - bishop_bot.bot - ERROR - Error creating voice manager instance: argument of type 'NoneType' is not iterable
+2025-06-10 15:12:50,965 - bishop_bot.bot - INFO - Initializing audio manager...
+2025-06-10 15:12:50,976 - bishop_bot.audio - INFO - Found 9 sounds across 3 categories
+2025-06-10 15:12:50,976 - bishop_bot.audio - INFO - Audio manager initialized
+2025-06-10 15:12:50,976 - bishop_bot.bot - INFO - Audio manager initialized successfully
+2025-06-10 15:12:50,976 - bishop_bot.bot - INFO - BishopBot class initialized
+2025-06-10 15:12:50,976 - bishop_bot - INFO - Starting Bishop Bot...
+2025-06-10 15:12:51,005 - bishop_bot.control_window - INFO - Initializing control window for bot: <bot.BishopBot object at 0x00000218FC92E510>
+2025-06-10 15:12:51,005 - bishop_bot.control_window - INFO - Starting control window thread
+2025-06-10 15:12:51,133 - bishop_bot.control_window - INFO - Control window initialized
+2025-06-10 15:12:51,141 - bishop_bot.control_window - INFO - Theme loaded successfully
+2025-06-10 15:12:51,568 - bishop_bot.commands - INFO - Registering bot commands...
+2025-06-10 15:12:51,569 - bishop_bot.commands - INFO - Syncing commands with Discord...
+2025-06-10 15:12:51,783 - bishop_bot.commands - INFO - Command sync complete!
+2025-06-10 15:12:51,783 - bishop_bot.bot - INFO - Bot setup completed - will set presence after connection
+2025-06-10 15:12:54,022 - bishop_bot.bot - INFO - Bot presence set successfully
+2025-06-10 15:12:54,023 - bishop_bot.bot - INFO - Connected as Bishop#5298 (ID: 1372791671745675334)
+2025-06-10 15:12:54,023 - bishop_bot.bot - INFO - Connected to 2 guilds
+2025-06-10 15:12:54,023 - bishop_bot.bot - INFO - Connected to guild: Adventures in Ravinis (ID: 1105615819980947688)
+2025-06-10 15:12:54,023 - bishop_bot.bot - INFO - Connected to guild: Electric Sheep Dream Scape (ID: 1256797444822270002)

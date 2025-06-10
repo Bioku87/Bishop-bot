@@ -1,0 +1,84 @@
+{
+    "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+    },
+    "skills": {
+        "acrobatics": {
+            "ability": "dexterity",
+            "proficient": false
+        },
+        "animal handling": {
+            "ability": "wisdom",
+            "proficient": false
+        },
+        "arcana": {
+            "ability": "intelligence",
+            "proficient": false
+        },
+        "athletics": {
+            "ability": "strength",
+            "proficient": false
+        },
+        "deception": {
+            "ability": "charisma",
+            "proficient": false
+        },
+        "history": {
+            "ability": "intelligence",
+            "proficient": false
+        },
+        "insight": {
+            "ability": "wisdom",
+            "proficient": false
+        },
+        "intimidation": {
+            "ability": "charisma",
+            "proficient": false
+        },
+        "investigation": {
+            "ability": "intelligence",
+            "proficient": false
+        },
+        "medicine": {
+            "ability": "wisdom",
+            "proficient": false
+        },
+        "nature": {
+            "ability": "intelligence",
+            "proficient": false
+        },
+        "perception": {
+            "ability": "wisdom",
+            "proficient": false
+        },
+        "performance": {
+            "ability": "charisma",
+            "proficient": false
+        },
+        "persuasion": {
+            "ability": "charisma",
+            "proficient": false
+        },
+        "religion": {
+            "ability": "intelligence",
+            "proficient": false
+        },
+        "sleight of hand": {
+            "ability": "dexterity",
+            "proficient": false
+        },
+        "stealth": {
+            "ability": "dexterity",
+            "proficient": false
+        },
+        "survival": {
+            "ability": "wisdom",
+            "proficient": false
+        }
+    }
+}

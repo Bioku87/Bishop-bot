@@ -1,0 +1,1 @@
+I want to implement all the features and functions we have planned and developed so far for the previous verion called Mckellen and the new version called Bishop. Its time to develop all fully operational features and functions into the stable program we have now

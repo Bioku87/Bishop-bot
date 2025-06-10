@@ -1,0 +1,65 @@
+Bishop/
+│
+├── .env                                 # Environment variables with API keys
+├── .gitignore                           # Git ignore file
+├── README.md                            # Project documentation
+├── requirements.txt                     # Python dependencies
+├── install_voice_deps.bat               # Voice dependencies installer
+├── run.bat                              # Main launcher script
+├── sync_commands.bat                    # Command sync utility
+├── verify_setup.py                      # System verification script
+│
+├── assets/                              # Asset files
+│   ├── icon.ico                         # Application icon
+│   └── images/                          # Image resources
+│
+├── data/                                # Data storage directory
+│   ├── characters/                      # Character data storage
+│   │   └── characters.json              # Character data file
+│   │
+│   ├── voice/                           # Voice data storage
+│   │   ├── profiles/                    # Voice profile storage
+│   │   │   └── profiles.json            # Voice profiles data
+│   │   ├── samples/                     # Voice sample storage
+│   │   └── sessions/                    # Voice session recordings
+│   │
+│   ├── audio/                           # Audio file storage
+│   │   └── soundboard/                  # Soundboard audio clips
+│   │       ├── Default/                 # Default soundboard group
+│   │       └── Combat/                  # Combat soundboard group
+│   │
+│   ├── exports/                         # Exported transcripts
+│   ├── temp/                            # Temporary files
+│   └── bishop.db                        # SQLite database
+│
+├── logs/                                # Log files directory
+│   └── bishop.log                       # Main log file
+│
+└── src/                                 # Source code directory
+    ├── main.py                          # Main application entry point
+    ├── control_window.py                # Control window UI implementation
+    │
+    ├── bot/                             # Bot core functionality
+    │   ├── __init__.py                  # Bot module initialization
+    │   │
+    │   └── commands/                    # Command modules
+    │       ├── __init__.py              # Command registration
+    │       ├── basic.py                 # Basic utility commands
+    │       ├── unified_commands.py      # Character registration commands
+    │       ├── voice.py                 # Voice commands
+    │       └── voice_settings.py        # Voice settings commands
+    │
+    ├── characters/                      # Character management system
+    │   └── __init__.py                  # Character manager class
+    │
+    ├── database/                        # Database management
+    │   └── __init__.py                  # Database manager class
+    │
+    └── voice/                           # Voice processing system
+        ├── __init__.py                  # Voice system initialization
+        ├── processor.py                 # Voice processor component
+        ├── profiles.py                  # Speech profiles manager
+        ├── receiver.py                  # Voice receiver component
+        ├── speech_alt.py                # Alternative speech processor
+        ├── speech_processor.py          # Main speech processor
+        └── music_player.py              # Music playback system

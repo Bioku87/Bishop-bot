@@ -1,0 +1,15 @@
+{
+    "engine": "whisper",
+    "model": "medium",
+    "language": "en",
+    "sample_rate": 16000,
+    "chunk_size": 1024,
+    "silence_threshold": 500,
+    "silence_duration": 1.0,
+    "keyword_activation": true,
+    "keywords": [
+        "bishop",
+        "hey bishop",
+        "computer"
+    ]
+}
